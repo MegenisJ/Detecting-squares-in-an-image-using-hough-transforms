@@ -8,7 +8,7 @@ Args that must be included.
  - target size for the square in pixels
  - f1 (strength of highlights for candidate peaks in the hough space)
  - f2 (confidence in the square)
- - number of sizes = amount of different sized squares. Entering a value above 1 will make the program prompt you for more square sizes
+ - number of sizes (amount of different sized squares. Entering a value above 1 will make the program prompt you for more square sizes)
 
 Some example program inputs:
   "java FindingSquares im1.pgm 200 0.2 0.5 1"
